@@ -1,5 +1,6 @@
 # php-custom-function
-**arraysFilter.php**
+
+[**arraysFilter.php**](https://github.com/MN-dev/php-custom-function/blob/master/arraysFilter.php)
 ```
 result
 array(6) {
